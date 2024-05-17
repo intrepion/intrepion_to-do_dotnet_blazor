@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrepion.ToDo.Domain", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrepion.ToDo.Domain.UnitTests", "Intrepion.ToDo.Domain.UnitTests\Intrepion.ToDo.Domain.UnitTests.csproj", "{9544EB8A-CACD-4B93-AEC2-F6C3BCC249BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrepion.ToDo.BlazorApplication", "Intrepion.ToDo.BlazorApplication\Intrepion.ToDo.BlazorApplication.csproj", "{D31B73C0-E604-48FD-A289-A15D02F25F31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9544EB8A-CACD-4B93-AEC2-F6C3BCC249BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9544EB8A-CACD-4B93-AEC2-F6C3BCC249BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9544EB8A-CACD-4B93-AEC2-F6C3BCC249BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31B73C0-E604-48FD-A289-A15D02F25F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31B73C0-E604-48FD-A289-A15D02F25F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31B73C0-E604-48FD-A289-A15D02F25F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31B73C0-E604-48FD-A289-A15D02F25F31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

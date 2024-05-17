@@ -1,4 +1,4 @@
-using Intrepion.ToDo.BlazorApplication.Components;
+﻿using Intrepion.ToDo.BlazorApplication.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

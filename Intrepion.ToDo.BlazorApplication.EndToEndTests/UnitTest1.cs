@@ -1,4 +1,4 @@
-namespace Intrepion.ToDo.BlazorApplication.EndToEndTests;
+﻿namespace Intrepion.ToDo.BlazorApplication.EndToEndTests;
 
 public class Tests
 {
